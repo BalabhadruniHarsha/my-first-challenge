@@ -1,2 +1,5 @@
-# my-first-challenge
-i was creating a simple poster
+team thuarique
+Thuarique
+Faizan
+Kaleem
+Harsha Vardhan
