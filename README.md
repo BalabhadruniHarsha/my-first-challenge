@@ -1,5 +1,5 @@
-team thuarique
-Thuarique
-Faizan
-Kaleem
-Harsha Vardhan
+team thuarique,
+Thuarique,
+Faizan,
+Kaleem,
+Harsha Vardhan.
